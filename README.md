@@ -8,7 +8,7 @@ QA Engineer • Java Developer • Automation Enthusiast
 
 ## Обо мне
 
-Начинающий QA-инженер с практическим опытом ручного тестирования и разработки программных решений.
+Начинающий разработчик с практическим опытом ручного тестирования и разработки программных решений.
 
 Работаю с Java, Spring Framework, PostgreSQL, REST API и Python. Интересуюсь обеспечением качества программного обеспечения, автоматизацией тестирования и backend-разработкой.
 
@@ -18,11 +18,6 @@ QA Engineer • Java Developer • Automation Enthusiast
 
 ---
 
-## Технологии
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,python,flask,git,github,maven,idea,vscode" />
-</p>
 
 ### Backend
 
