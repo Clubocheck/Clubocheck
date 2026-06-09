@@ -3,12 +3,12 @@
 QA Engineer • Java Developer • Automation Enthusiast
 </h3>
 <p align="center">
-Люблю автоматизировать рутину, разбираться в коде и создавать полезные инструменты.
+Начинающий тестировщик с практическим опытом ручного тестирования. Работаю с Java, PostgreSQL, Spring Framework, Hibernate, API. Развиваюсь в направлении автоматизации тестирования.
 </p>
 ---
-🚀 Обо мне
+Обо мне
 🎓 Выпускница УУНиТ (Программная инженерия)
-💻 Работаю с:
+Работаю с:
 Java
 Spring Boot
 PostgreSQL
@@ -17,19 +17,11 @@ Flask
 REST API
 Selenium
 Git
-🔍 Изучаю:
+Изучаю:
 QA Automation
 Test Automation
-CI/CD
-Docker
-Kafka
-⚡ Интересуюсь:
-Backend разработкой
-Автоматизацией процессов
-Компьютерным зрением
-Интеллектуальными системами
 ---
-🛠 Технологии
+Технологии
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=spring" />
@@ -43,22 +35,22 @@ Backend разработкой
 </p>
 ---
 📌 Основные проекты
-📝 Web Blog
-Полноценный блог с регистрацией пользователей.
+Web Blog
+Блог с регистрацией пользователей.
 ✔ Java Core версия  
 ✔ Spring Boot версия  
 ✔ Spring Security  
 ✔ PostgreSQL  
 ✔ Авторизация и роли
 ---
-🤖 Anime Episode Notifier
+Anime Episode Notifier
 Telegram-бот для отслеживания выхода новых серий.
 ✔ Telegram Bot API  
 ✔ Jikan API  
 ✔ PostgreSQL  
 ✔ Spring Boot
 ---
-🚗 Intelligent Route Finder
+Intelligent Route Finder
 Дипломный проект.
 Система поиска квазиоптимального маршрута с учетом дорожной ситуации.
 ✔ 2GIS API  
@@ -67,18 +59,18 @@ Telegram-бот для отслеживания выхода новых сери
 ✔ OpenCV  
 ✔ Flask
 ---
-📊 GitHub статистика
+GitHub статистика
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Clubocheck&show_icons=true&theme=tokyonight"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clubocheck&layout=compact&theme=tokyonight"/>
 </p>
 ---
-🔥 GitHub Streak
+GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Clubocheck&theme=tokyonight"/>
 </p>
 ---
-📫 Контакты
+Контакты
 Telegram: @cblpo4ekkk
 Email: gatiyatullinadina3462@gmail.com
 GitHub: https://github.com/Clubocheck
