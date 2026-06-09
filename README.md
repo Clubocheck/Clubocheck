@@ -131,4 +131,3 @@ Telegram: @cblpo4ekkk
 
 Email: gatiyatullinadina3462@gmail.com
 
-GitHub: https://github.com/Clubocheck
