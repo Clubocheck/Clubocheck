@@ -104,16 +104,6 @@ Java, Spring Boot, PostgreSQL, Telegram Bot API, Jikan API.
 
 Java, Spring Boot, Spring Security, PostgreSQL, Thymeleaf, Hibernate.
 
----
-
-## GitHub статистика
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Clubocheck&show_icons=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clubocheck&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## Сейчас изучаю
 
