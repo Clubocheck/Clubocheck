@@ -56,6 +56,7 @@ QA Engineer • Java Developer • Automation Enthusiast
 ### Интеллектуальная система поиска квазиоптимального маршрута
 
 Дипломный проект по построению маршрутов с учетом дорожной ситуации.
+https://e-library.ufa-rb.ru/dl/VKR/2025/Gatiyatullina_DR_09.03.04_pr_in_bak_2025.pdf/en/info
 
 **Функциональность:**
 
