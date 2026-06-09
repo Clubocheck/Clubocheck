@@ -1,77 +1,139 @@
-<h1 align="center">Привет 👋, меня зовут Дина</h1>
-<h3 align="center">
-QA Engineer • Java Developer • Automation Enthusiast
-</h3>
+<h1 align="center">Гатиятуллина Дина</h1>
+
 <p align="center">
-Начинающий тестировщик с практическим опытом ручного тестирования. Работаю с Java, PostgreSQL, Spring Framework, Hibernate, API. Развиваюсь в направлении автоматизации тестирования.
+QA Engineer • Java Developer • Automation Enthusiast
 </p>
 
-Обо мне
-🎓 Выпускница УУНиТ (Программная инженерия)
-Работаю с:
-Java
-Spring Boot
-PostgreSQL
-Python
-Flask
-REST API
-Selenium
-Git
-Изучаю:
-QA Automation
-Test Automation
+---
+
+## Обо мне
+
+Начинающий QA-инженер с практическим опытом ручного тестирования и разработки программных решений.
+
+Работаю с Java, Spring Framework, PostgreSQL, REST API и Python. Интересуюсь обеспечением качества программного обеспечения, автоматизацией тестирования и backend-разработкой.
+
+Имею опыт автоматизации внутренних бизнес-процессов, разработки веб-приложений, интеграции внешних API и работы с базами данных.
+
+В своих проектах уделяю особое внимание качеству кода, понятной архитектуре, тестируемости и надежности решений.
+
+---
+
+## Технологии
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=idea" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,python,flask,git,github,maven,idea,vscode" />
 </p>
-<p>
-Основные проекты
-Web Blog
-Блог с регистрацией пользователей.
-✔ Java Core версия  
-✔ Spring Boot версия  
-✔ Spring Security  
-✔ PostgreSQL  
-✔ Авторизация и роли
-  </p>
-<p>
-Anime Episode Notifier
-Telegram-бот для отслеживания выхода новых серий.
-✔ Telegram Bot API  
-✔ Jikan API  
-✔ PostgreSQL  
-✔ Spring Boot
-</p>
-<p>
-Intelligent Route Finder
-Дипломный проект.
-Система поиска квазиоптимального маршрута с учетом дорожной ситуации.
-✔ 2GIS API  
-✔ Selenium  
-✔ YOLO  
-✔ OpenCV  
-✔ Flask
-</p>
-GitHub статистика
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Clubocheck&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clubocheck&layout=compact&theme=tokyonight"/>
-</p>
+
+### Backend
+
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST API
+
+### Базы данных
+
+- PostgreSQL
+- JDBC
+
+### Тестирование
+
+- Ручное тестирование
+- API Testing
+- JUnit 5
+- Анализ требований
+- Поиск и документирование дефектов
+
+### Дополнительно
+
+- Python
+- Flask
+- Selenium
+- Maven
+- Git
+
 ---
-GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Clubocheck&theme=tokyonight"/>
-</p>
+
+## Основные проекты
+
+### Интеллектуальная система поиска квазиоптимального маршрута
+
+Дипломный проект по построению маршрутов с учетом дорожной ситуации.
+
+**Функциональность:**
+
+- получение альтернативных маршрутов через API 2GIS;
+- сбор данных с городских камер видеонаблюдения;
+- анализ дорожной загруженности с использованием YOLO;
+- расчет весовых коэффициентов маршрутов;
+- визуализация результатов на интерактивной карте.
+
+**Стек:**
+
+Python, Flask, Selenium, OpenCV, YOLO, 2GIS API, HTML, CSS, JavaScript.
+
 ---
-Контакты
+
+### Telegram-бот для отслеживания выхода новых серий
+
+Сервис автоматического уведомления пользователей о выходе новых эпизодов аниме и сериалов.
+
+**Функциональность:**
+
+- подписка пользователей на интересующие тайтлы;
+- хранение пользователей и подписок в PostgreSQL;
+- интеграция с внешними API;
+- автоматическая отправка уведомлений в Telegram.
+
+**Стек:**
+
+Java, Spring Boot, PostgreSQL, Telegram Bot API, Jikan API.
+
+---
+
+### Веб-блог
+
+Веб-приложение для публикации и управления статьями.
+
+**Функциональность:**
+
+- регистрация и авторизация пользователей;
+- разграничение прав доступа;
+- создание, редактирование и удаление публикаций;
+- хранение данных в PostgreSQL.
+
+**Стек:**
+
+Java, Spring Boot, Spring Security, PostgreSQL, Thymeleaf, Hibernate.
+
+---
+
+## GitHub статистика
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Clubocheck&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clubocheck&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Сейчас изучаю
+
+- Автоматизацию тестирования
+- Интеграционное тестирование
+- Тестирование REST API
+- PostgreSQL
+- Spring Framework
+- CI/CD
+
+---
+
+## Контакты
+
 Telegram: @cblpo4ekkk
+
 Email: gatiyatullinadina3462@gmail.com
+
 GitHub: https://github.com/Clubocheck
