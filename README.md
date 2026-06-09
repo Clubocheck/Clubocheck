@@ -5,7 +5,7 @@ QA Engineer • Java Developer • Automation Enthusiast
 <p align="center">
 Начинающий тестировщик с практическим опытом ручного тестирования. Работаю с Java, PostgreSQL, Spring Framework, Hibernate, API. Развиваюсь в направлении автоматизации тестирования.
 </p>
----
+
 Обо мне
 🎓 Выпускница УУНиТ (Программная инженерия)
 Работаю с:
@@ -20,8 +20,7 @@ Git
 Изучаю:
 QA Automation
 Test Automation
----
-Технологии
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=spring" />
